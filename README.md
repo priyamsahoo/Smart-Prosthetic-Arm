@@ -2,7 +2,7 @@
 This is an implementaion of interfacing Leap Motion with arduino using NodeJS and johnny-five framework.
 
 ## Description
-The prosthetic arms that exist today provide only preset grips or even only open and close functions. Our aim for this project was to create an arm that feels and works just like real hand. The major problem was to leverage existing technology and give the user an option to input custom gestures, the user can record custom gestures with the help of leap motion device which will run the arm in shadow-mode. The arm decides when to grip the object present in front of it by sensing it through the palm-camera, using object detection and forms an appropriate grip. 
+The prosthetic arms that exist today provide only preset grips or even only open and close functions. Our aim for this project was to create an arm that feels and works just like a real hand. The major problem was to leverage existing technology and give the user an option to input custom gestures, the user can record custom gestures with the help of leap motion device which will run the arm in shadow-mode. The arm decides when to grip the object present in front of it by sensing it through the palm-camera, using object detection and forms an appropriate grip. 
 
 ## Features
 * 5 DOF in each arm, with independent finger movements.
