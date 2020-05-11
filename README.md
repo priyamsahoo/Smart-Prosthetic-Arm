@@ -1,4 +1,4 @@
-# Prosthetic_Arm
+# SmartProstheticArm
 This is an implementaion of interfacing Leap Motion with arduino using NodeJS and johnny-five framework.
 
 ## Description
@@ -6,11 +6,10 @@ The prosthetic arms that exist today provide only preset grips or even only open
 
 ## Features
 * 5 DOF in each arm, with independent finger movements.
-* Applying and understanding reverse kinematics
-* We will interface the humanoid arm with the Leap Motion controller, thus making it a gesture controlled arm.
-* We will refine the movement of the fingers and the wrist so that there is minimum time time-lag. 
-* There will be a camera mounted on the palm of the arm, which will give vision to the arm (discussed ahead). 
-
+* Application of reverse kinematics
+* Interfaced the prosthetic arm with the Leap Motion controller, thus making it a gesture controlled arm.
+* Refined the movement of the fingers and the wrist so that there is minimum time time-lag. 
+* Camera mounted on the palm of the arm, which gives vision to the arm. (Object detection code notavailable in th repo.)
 
 ## Outcome
 The device is capable of performing multiple grips and gestures, successfully implementing both force and position control. With the exception of the battery, the device is self-contained, housing all electrical, mechanical, and software components within its frame. All unique parts, like the fingers, palm, and forearm, were 3D-printed with ABS plastic. The device is mechanically capable of grasping objects that may be used in daily life. These different grasps and gestures can be recorded previously. The device is capable of identifying objects and communicating the identification to the low-level controller for actuation of the fingers.
