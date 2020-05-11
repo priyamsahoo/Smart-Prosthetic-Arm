@@ -1,4 +1,4 @@
-# SmartProstheticArm
+# Smart-Prosthetic-Arm
 This is an implementaion of interfacing Leap Motion with arduino using NodeJS and johnny-five framework.
 
 ## Description
