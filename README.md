@@ -14,5 +14,7 @@ The prosthetic arms that exist today provide only preset grips or even only open
 ## Outcome
 The device is capable of performing multiple grips and gestures, successfully implementing both force and position control. With the exception of the battery, the device is self-contained, housing all electrical, mechanical, and software components within its frame. All unique parts, like the fingers, palm, and forearm, were 3D-printed with ABS plastic. The device is mechanically capable of grasping objects that may be used in daily life. These different grasps and gestures can be recorded previously. The device is capable of identifying objects and communicating the identification to the low-level controller for actuation of the fingers.
 
+## Future Uses
+These can be used in military grade applications where there is more human loss, for example difussing a bomb.
 ## Video Link
 The demonstration of the project is shown in [this link](https://www.youtube.com/playlist?list=PLXkO7RqPA-cndggkdsyzqVC1CWf3bU-xL "this link").
